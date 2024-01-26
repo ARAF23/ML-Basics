@@ -1,0 +1,5 @@
+Categorization is implemented on " Salary_dataset "
+1.Dealing with Null values
+2.Data bining
+3.Categorization
+4.Scaling (implemented on apple-quality project already)
